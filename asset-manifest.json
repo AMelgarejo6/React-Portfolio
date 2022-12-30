@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/anthonymelgarejo.github.io/static/css/main.503226bb.css",
-    "main.js": "/anthonymelgarejo.github.io/static/js/main.d6d04bbc.js",
-    "static/js/787.a2cb61a6.chunk.js": "/anthonymelgarejo.github.io/static/js/787.a2cb61a6.chunk.js",
-    "static/media/athlead.png": "/anthonymelgarejo.github.io/static/media/athlead.8b0850da559deaa3953a.png",
-    "static/media/mepic.JPG": "/anthonymelgarejo.github.io/static/media/mepic.045597df72a2e14052ef.JPG",
-    "static/media/lexoletics.png": "/anthonymelgarejo.github.io/static/media/lexoletics.b06a2b7fb3b606280eb3.png",
-    "static/media/otherme.jpg": "/anthonymelgarejo.github.io/static/media/otherme.106800c6f4f9578dab19.jpg",
-    "static/media/resume.pdf": "/anthonymelgarejo.github.io/static/media/resume.18ed2b584328b0b18da9.pdf",
-    "index.html": "/anthonymelgarejo.github.io/index.html",
-    "main.503226bb.css.map": "/anthonymelgarejo.github.io/static/css/main.503226bb.css.map",
-    "main.d6d04bbc.js.map": "/anthonymelgarejo.github.io/static/js/main.d6d04bbc.js.map",
-    "787.a2cb61a6.chunk.js.map": "/anthonymelgarejo.github.io/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.503226bb.css",
+    "main.js": "/react-portfolio/static/js/main.6704e7a6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/athlead.png": "/react-portfolio/static/media/athlead.8b0850da559deaa3953a.png",
+    "static/media/mepic.JPG": "/react-portfolio/static/media/mepic.045597df72a2e14052ef.JPG",
+    "static/media/lexoletics.png": "/react-portfolio/static/media/lexoletics.b06a2b7fb3b606280eb3.png",
+    "static/media/otherme.jpg": "/react-portfolio/static/media/otherme.106800c6f4f9578dab19.jpg",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.18ed2b584328b0b18da9.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.503226bb.css.map": "/react-portfolio/static/css/main.503226bb.css.map",
+    "main.6704e7a6.js.map": "/react-portfolio/static/js/main.6704e7a6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.503226bb.css",
-    "static/js/main.d6d04bbc.js"
+    "static/js/main.6704e7a6.js"
   ]
 }
