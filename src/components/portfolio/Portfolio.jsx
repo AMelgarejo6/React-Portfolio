@@ -16,7 +16,7 @@ const Portfolio = () => {
                     <h3>Lexoletics Full Stack e-Commerce Application</h3>
                     <h3>Built with Python, Flask, MySQL</h3>
                     <div className="portfolio__item-cta">
-                        <a href='https://github.com' className='btn btn-primary'>GitHub</a>
+                        <a href='https://github.com/AMelgarejo6/Full_Stack.git' className='btn btn-primary'>GitHub</a>
                     </div>
                 </article>
                 <article className='portfolio__item'> 
@@ -26,7 +26,7 @@ const Portfolio = () => {
                     <h3>Athlead Full Stack Meetup Application</h3>
                     <h3>Built with Java, Spring Boot, MySQL</h3>
                     <div className="portfolio__item-cta">
-                        <a href='https://github.com' className='btn btn-primary'>GitHub</a>
+                        <a href='https://github.com/AMelgarejo6/Java/tree/main/Athlead' className='btn btn-primary'>GitHub</a>
                     </div>
                 </article>
             </div>
